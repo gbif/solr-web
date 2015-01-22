@@ -4,7 +4,7 @@
   <parent>
     <groupId>org.gbif</groupId>
     <artifactId>motherpom</artifactId>
-    <version>14</version>
+    <version>19</version>
   </parent>
 
   <groupId>org.gbif</groupId>
@@ -22,21 +22,21 @@
   </scm>
 
   <properties>
-    <solr-lucene-version>4.4.0</solr-lucene-version>
-    <slf4j.version>1.6.4</slf4j.version>
-    <zookeeper.version>3.4.5</zookeeper.version>
-    <spatial4j.version>0.3</spatial4j.version>
+    <solr-lucene-version>4.10.3</solr-lucene-version>
+    <slf4j.version>1.7.10</slf4j.version>
+    <zookeeper.version>3.4.6</zookeeper.version>
+    <spatial4j.version>0.4.1</spatial4j.version>
     <jts.version>1.13</jts.version>
     <cglib-nodep.version>2.2</cglib-nodep.version>
     <commons-cli.version>1.2</commons-cli.version>
-    <commons-codec.version>1.2</commons-codec.version>
+    <commons-codec.version>1.9</commons-codec.version>
     <commons-fileupload.version>1.2.1</commons-fileupload.version>
-    <commons-io.version>2.1</commons-io.version>
+    <commons-io.version>2.3</commons-io.version>
     <commons-lang.version>2.6</commons-lang.version>
-    <httpclient.version>4.2.3</httpclient.version>
-    <httpcore.version>4.2.2</httpcore.version>
+    <httpclient.version>4.3.6</httpclient.version>
+    <httpcore.version>4.3.3</httpcore.version>
     <objenesis.version>1.2</objenesis.version>
-    <logback.version>1.0.13</logback.version>
+    <logback.version>1.1.2</logback.version>
   </properties>
 
   <build>
