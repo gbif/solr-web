@@ -9,7 +9,7 @@
 
   <groupId>org.gbif</groupId>
   <artifactId>solr-web</artifactId>
-  <version>0.3</version>
+  <version>0.4-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>Solr Web Application</name>
@@ -19,7 +19,6 @@
     <connection>scm:git:git@github.com:gbif/solr-web.git</connection>
     <url>https://github.com/gbif/solr-web</url>
     <developerConnection>scm:git:git@github.com:gbif/solr-web.git</developerConnection>
-    <tag>solr-web-0.3</tag>
   </scm>
 
   <properties>
