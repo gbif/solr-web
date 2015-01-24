@@ -1,6 +1,6 @@
 Solr Web 
 =============
-This project is a skeleton to create Solr 4.1.0 web applications.
+This project is a skeleton to create Solr 4.10.3 web applications.
 Requires 2 parameters in order to replace those values in files: logging.properties and web.xml.
   -warName: name of the web application
   -solr.home: path to the solr home directory.
